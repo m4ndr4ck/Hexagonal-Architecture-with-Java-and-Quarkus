@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781801816489)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Designing Hexagonal Architecture with Java
 
 <a href="https://www.packtpub.com/product/designing-hexagonal-architecture-with-java-and-quarkus/9781801816489?utm_source=github&utm_medium=repository&utm_campaign=9781801816489"><img src="https://static.packt-cdn.com/products/9781801816489/cover/smaller" alt="Designing Hexagonal Architecture with Java" height="256px" align="right"></a>
@@ -56,3 +68,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Get to Know the Author
 **Davi Vieira**
 is a software craftsman with a vested interest in the challenges faced by large enterprises in software design, development, and architecture. He has more than 10 years of experience constructing and maintaining complex, long-lasting, and mission-critical systems using object-oriented languages. He values the good lessons and the software development tradition left by others who came before him. Inspired by this software tradition, he develops and evolves his ideas.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801816489">https://packt.link/free-ebook/9781801816489 </a> </p>
